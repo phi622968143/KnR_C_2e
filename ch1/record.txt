@@ -1,2 +1,3 @@
 hello.c- cc system compiler;main is the entrance of c program;./a.out is to exec pwd file (a.out global)
 rwc.c-when input char push into stdin cache and '\n' pop out.
+longest_line.c - getline is define in Clang
