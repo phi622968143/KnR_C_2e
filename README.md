@@ -6,7 +6,7 @@ ch2 : Types Operator Expression
 
 ch3 : Control flow
 
-ch4 : F & P structure
+ch4 : F & P structure Dec 05
 
 
 ch5 : Ptr and arrs
