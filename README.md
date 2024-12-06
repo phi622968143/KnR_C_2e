@@ -9,7 +9,7 @@ ch3 : Control flow
 ch4 : F & P structure Dec 05
 
 
-ch5 : Ptr and arrs
+ch5 : Ptr and arrs Dec 07
 
 ch6 : Structures
 

@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdint.h>
 size_t strlen_ptr(char* s);
 int main(int argc, char *argv[])
 {
